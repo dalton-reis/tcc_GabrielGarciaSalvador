@@ -26,3 +26,18 @@ Público
 Teste Final __
 
 ----------
+
+## 2021-03-24
+Testou rotinas para pegar e fazer uma ação sobre o objeto.
+Já tem um quadro (vermelho).
+Tentou fazer a rotina para rabiscar direto no quadro.
+Achou o Asset para fazer estes rabiscos. Este Asset já tem o palete de cores, espessura, etc.
+
+Não está usando o Trail __
+https://docs.unity3d.com/Manual/class-TrailRenderer.html
+
+Vai continuar melhorando as ferramentas do quadro.
+Vai tentar deixar o quadro transparente para poder colcoar um outro quadro de baixo com um mini-browser.
+
+----------
+
