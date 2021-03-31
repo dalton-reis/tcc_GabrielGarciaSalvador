@@ -1,5 +1,5 @@
 ----------
-## 2020/08/21
+## 2020-08-21
 
 Mostrou interesse em fazer algo relacionado com RV, mas não tem ideias.
 Marquei para conversar.
@@ -16,7 +16,7 @@ Mas também gostaria de outas idéias se o professor tiver alguma.
 Quando o professor tiver um tempinho e estiver disposto me da um toque dai, pode ser por esse email, pelo email
  
 ----------
-## 2020/08/25
+## 2020-08-25
 
 Ok, fechamos a ideia ... usar o Oculus.
 Propor uma arquiteura para manipular e explicar conteúdo usando RA.
@@ -28,7 +28,7 @@ c) buscar por exemplos de uso do hardware escolhido (item b) --> trabalhos corre
 d) propor um título para o "Termo de TCC1"
 
 ----------
-## 2021/03/03
+## 2021-03-03
 #### TCC2 - assista
 Relatório quinzenais -> prazo aos domingos. 
    sempre ter o relatório pronto na reunião que antecede prazo.
