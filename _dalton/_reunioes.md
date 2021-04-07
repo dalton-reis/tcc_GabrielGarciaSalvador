@@ -77,3 +77,22 @@ Pegou com o Rodrigo (TCC) uma forma diferente de mostrar as mãos virtuais.
 .. refinar melhor a caneta e o quadro
 .. fazer o navegador
 
+----------
+## 2021-04-07
+### Browser
+#### Asset Browser no Unity
+Ver como Alex (bolsista) uso nos projetos.
+Orientando achou estes aqui.
+https://assetstore.unity.com/packages/tools/gui/3d-webview-for-windows-and-macos-web-browser-154144
+https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-web-browser-137030
+
+Link Projeto Alex: https://github.com/dalton-reis/Unity_WebView
+
+### Sala Virtual
+#### Recursos essenciais
+Apple PencilKit
+
+#### Softwares para losas digitais
+Pesquisar alguns software
+
+### Uso no Quest2
