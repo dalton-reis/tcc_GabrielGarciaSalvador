@@ -110,3 +110,15 @@ Pesquisar alguns software
 
 - problemas: o risco da caneta fica pipocando .. vai arrumar
 
+----------
+## 2021-05-05
+05/05/2021 08:38:19 relatório TCC2
+Horas trabalhadas: 320
+Muita pesquisa e tutoriais.
+Alterada a biblioteca de realidade virtual do projeto do OpenVR para O XRToolkit reestruturando os objetos.
+Implementado script próprio de manipulação de objetos em realidade virtual a fim de obter maior controle e um resultado melhor pro meu caso de uso.
+Implementado script próprio para manipular a movimentação dos dedos da mão virtual.
+Ajustes nos scripts de pintura para se adequar ao uso em realidade virtual.
+Melhorias no funcionamento do canetão no quadro branco.
+Adicionado cenário.
+
