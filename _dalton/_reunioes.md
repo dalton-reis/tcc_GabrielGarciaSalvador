@@ -66,7 +66,7 @@ Não está usando o Trail __
 https://docs.unity3d.com/Manual/class-TrailRenderer.html
 
 Vai continuar melhorando as ferramentas do quadro.
-Vai tentar deixar o quadro transparente para poder colcoar um outro quadro de baixo com um mini-browser.
+Vai tentar deixar o quadro transparente para poder colocar um outro quadro de baixo com um mini-browser.
 
 ----------
 ## 2021-03-31
@@ -89,24 +89,34 @@ https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-web-brows
 Link Projeto Alex: https://github.com/dalton-reis/Unity_WebView
 
 ### Sala Virtual
+
 #### Recursos essenciais
+
 Apple PencilKit
 
 #### Softwares para losas digitais
+
 Pesquisar alguns software
 
 ### Uso no Quest2
 
-
 ----------
+
 ## 2021-04-14
+
 - testou direto usando o Quest 2
 - adicionou uma rotina de exemplo que permite selecionar objetos
- - cria uma esfera envolta da pessoa
- - objetos fora da esfera ficam com uma obrda preta
- - objetos dentro da esfera ficam sem borda (brancos)
- - apontando para um objeto que pode ser selecionado, e dentro da esfera, fica com uma borda azul
- - agarra o objeto pressionando o botão que fecha os último 3 dedos, e quando solta o botão larga o objeto
-
+  - cria uma esfera envolta da pessoa
+  - objetos fora da esfera ficam com uma borda preta
+  - objetos dentro da esfera ficam sem borda (brancos)
+  - apontando para um objeto que pode ser selecionado, e dentro da esfera, fica com uma borda azul
+  - agarra o objeto pressionando o botão que fecha os último 3 dedos, e quando solta o botão larga o objeto
 - problemas: o risco da caneta fica pipocando .. vai arrumar
 
+----------
+
+## 2021-05-12
+
+- Montou vários objetos da sala.
+- Melhorou rotinas de desenho.
+- Vai continuar com rotinas de desenho, formas geométricas.
