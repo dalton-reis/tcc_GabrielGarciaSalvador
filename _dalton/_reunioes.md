@@ -114,7 +114,6 @@ Pesquisar alguns software
 - problemas: o risco da caneta fica pipocando .. vai arrumar
 
 ----------
-<<<<<<< HEAD
 
 ## 2021-05-12
 
@@ -122,6 +121,7 @@ Pesquisar alguns software
 - Melhorou rotinas de desenho.
 - Vai continuar com rotinas de desenho, formas geométricas.
 =======
+
 ## 2021-05-05
 05/05/2021 08:38:19 relatório TCC2
 Horas trabalhadas: 320
@@ -133,4 +133,11 @@ Ajustes nos scripts de pintura para se adequar ao uso em realidade virtual.
 Melhorias no funcionamento do canetão no quadro branco.
 Adicionado cenário.
 
->>>>>>> ca301792331122fef243a23e9f65ad252601ad43
+## 2021-05-19
+
+Vai fazer:
+
+- terminar trocar cor da forma, e mais um forma
+- painel de tarefa (não precisar fazer um questionário)
+- testar alguém próximo
+- fazer artigo
