@@ -123,6 +123,7 @@ Pesquisar alguns software
 =======
 
 ## 2021-05-05
+
 05/05/2021 08:38:19 relatório TCC2
 Horas trabalhadas: 320
 Muita pesquisa e tutoriais.
@@ -139,5 +140,10 @@ Vai fazer:
 
 - terminar trocar cor da forma, e mais um forma
 - painel de tarefa (não precisar fazer um questionário)
+
+## 2021-05-26
+
+- mais cores na caneta
+- acertar os exercícios
 - testar alguém próximo
 - fazer artigo
