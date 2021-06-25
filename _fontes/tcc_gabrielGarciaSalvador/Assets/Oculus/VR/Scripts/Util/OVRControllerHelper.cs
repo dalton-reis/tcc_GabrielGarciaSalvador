@@ -64,26 +64,26 @@ public class OVRControllerHelper : MonoBehaviour
 		Quest2 = 3,
 	}
 
-	private ControllerType activeControllerType = ControllerType.Rift;
+	private ControllerType activeControllerType = ControllerType.Quest2;
 
 	private bool m_prevControllerConnected = false;
 	private bool m_prevControllerConnectedCached = false;
 
 	void Start()
 	{
-		OVRPlugin.SystemHeadset headset = OVRPlugin.GetSystemHeadsetType();
-		switch (headset)
-		{
-			case OVRPlugin.SystemHeadset.Rift_CV1:
-				activeControllerType = ControllerType.Rift;
-				break;
-			case OVRPlugin.SystemHeadset.Oculus_Quest_2:
-				activeControllerType = ControllerType.Quest2;
-				break;
-			default:
-				activeControllerType = ControllerType.QuestAndRiftS;
-				break;
-		}
+		// OVRPlugin.SystemHeadset headset = OVRPlugin.GetSystemHeadsetType();
+		// switch (headset)
+		// {
+		// 	case OVRPlugin.SystemHeadset.Rift_CV1:
+		// 		activeControllerType = ControllerType.Rift;
+		// 		break;
+		// 	case OVRPlugin.SystemHeadset.Oculus_Quest_2:
+		// 		activeControllerType = ControllerType.Quest2;
+		// 		break;
+		// 	default:
+		// 		activeControllerType = ControllerType.QuestAndRiftS;
+		// 		break;
+		// }
 
 		Debug.LogFormat("OVRControllerHelp: Active controller type: {0} for product {1}", activeControllerType, OVRPlugin.productName);
 

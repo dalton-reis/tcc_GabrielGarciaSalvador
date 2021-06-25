@@ -18,7 +18,7 @@ namespace OculusSampleFramework
     public class DistanceGrabberSample : MonoBehaviour
     {
 
-        bool useSpherecast = false;
+        bool useSpherecast = true;
         bool allowGrabThroughWalls = false;
 
         public bool UseSpherecast
