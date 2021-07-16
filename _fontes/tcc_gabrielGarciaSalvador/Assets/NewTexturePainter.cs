@@ -208,7 +208,6 @@ public class NewTexturePainter : MonoBehaviour
         isPlacingShape = false;
     }
 
-    //The main action, instantiates a brush or decal entity at the clicked position on the UV map
     void DoAction()
     {
         Vector3 uvWorldPosition = Vector3.zero;
@@ -291,17 +290,7 @@ public class NewTexturePainter : MonoBehaviour
             currentPaintingBrush.transform.localPosition = uvWorldPosition; //The position of the brush (in the UVMap)
         }
     }
-    //To update at realtime the painting cursor on the mesh
-    //void UpdateBrushCursor(){
-    //	Vector3 uvWorldPosition=Vector3.zero;
-    //	if (HitTestUVPosition (ref uvWorldPosition) && !saving) {
-    //		brushCursor.SetActive(true);
-    //		brushCursor.transform.position =uvWorldPosition+brushContainer.transform.position;									
-    //	} else {
-    //		brushCursor.SetActive(false);
-    //	}		
-    //}
-    //Returns the position on the texuremap according to a hit in the mesh collider
+
     bool HitTestUVPosition(ref Vector3 uvWorldPosition)
     {
         RaycastHit hit;
@@ -322,39 +311,7 @@ public class NewTexturePainter : MonoBehaviour
             return false;
         }
     }
-
-
-    //Sets the base material with a our canvas texture, then removes all our brushes
-    void SaveTexture()
-    {
-        brushCounter = 0;
-        System.DateTime date = System.DateTime.Now;
-        RenderTexture.active = canvasTexture;
-        Texture2D tex = new Texture2D(canvasTexture.width, canvasTexture.height, TextureFormat.ARGB32, false);
-        tex.ReadPixels(new Rect(0, 0, canvasTexture.width, canvasTexture.height), 0, 0);
-        tex.Apply();
-        RenderTexture.active = null;
-        baseMaterial.mainTexture = tex;  //Put the painted texture as the base
-
-        foreach (Transform child in brushContainer.transform)
-        {//Clear brushes
-            Destroy(child.gameObject);
-        }
-        saving = false;
-        hasChanges = false;
-        //StartCoroutine ("SaveTextureToFile"); //Do you want to save the texture? This is your method!
-        //Invoke ("ShowCursor", 0.1f);
-    }
-
    
-    //Show again the user cursor (To avoid saving it to the texture)
-    void ShowCursor()
-    {
-        saving = false;
-    }
-
-    ////////////////// PUBLIC METHODS //////////////////
-
     public void SetBrushMode(Painter_BrushMode brushMode)
     { //Sets if we are painting or placing decals
         mode = brushMode;
@@ -366,21 +323,4 @@ public class NewTexturePainter : MonoBehaviour
         //brushCursor.transform.localScale = Vector3.one * brushSize;
     }
 
-    ////////////////// OPTIONAL METHODS //////////////////
-
-#if !UNITY_WEBPLAYER
-    IEnumerator SaveTextureToFile(Texture2D savedTexture)
-    {
-        brushCounter = 0;
-        string fullPath = System.IO.Directory.GetCurrentDirectory() + "\\UserCanvas\\";
-        System.DateTime date = System.DateTime.Now;
-        string fileName = "CanvasTexture.png";
-        if (!System.IO.Directory.Exists(fullPath))
-            System.IO.Directory.CreateDirectory(fullPath);
-        var bytes = savedTexture.EncodeToPNG();
-        System.IO.File.WriteAllBytes(fullPath + fileName, bytes);
-        Debug.Log("<color=orange>Saved Successfully!</color>" + fullPath + fileName);
-        yield return null;
-    }
-#endif
 }
