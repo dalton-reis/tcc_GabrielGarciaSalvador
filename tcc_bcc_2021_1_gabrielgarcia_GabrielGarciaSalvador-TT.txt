@@ -1,0 +1,18 @@
+Tutorial
+---------------------------------------
+(A versão unity do projeto é 2020.2.5f1)
+1 - Instale o Unity HUB
+2 - Importe o projeto no Unity HUB
+3 - Abra o projeto
+4 - Instale as seguintes dependencias no Package Manager:
+ XR Interaction Toolkit
+ XR Plugin Management
+ OpenXR Plugin
+ Oculus XR Plugin
+ AR Foundation
+ ARCore XR PLugin
+
+Dúvidas
+------------------------------------
+Em caso de dúvidas pode me contatar através do e-mail gabrielgarciasalvador@outlook.com
+
