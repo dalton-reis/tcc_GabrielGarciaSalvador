@@ -1,0 +1,446 @@
+From asartori@furb.br Mon Oct 12 17:58:01 2020
+Received: from CPXP152MB3238.LAMP152.PROD.OUTLOOK.COM (2603:10d6:103:4e::11)
+ by CP0P152MB3234.LAMP152.PROD.OUTLOOK.COM with HTTPS; Mon, 12 Oct 2020
+ 17:58:00 +0000
+Received: from CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM (2603:10d6:103:2d::9) by
+ CPXP152MB3238.LAMP152.PROD.OUTLOOK.COM (2603:10d6:103:4e::11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.3455.26; Mon, 12 Oct 2020 17:58:00 +0000
+Received: from CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM
+ ([fe80::75b7:a998:9b63:a9ec]) by CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM
+ ([fe80::75b7:a998:9b63:a9ec%6]) with mapi id 15.20.3455.029; Mon, 12 Oct 2020
+ 17:58:00 +0000
+From: Andreza Sartori <asartori@furb.br>
+To: Dalton Solano dos Reis <dalton@furb.br>
+Subject: =?Windows-1252?Q?RE:_Pr=E9-projeto_Gabriel_Garcia_Salvador?=
+Thread-Topic: =?Windows-1252?Q?Pr=E9-projeto_Gabriel_Garcia_Salvador?=
+Thread-Index: AQHWoClinmUdSm08OkqPkTmU3QBXJKmUQhw3
+Date: Mon, 12 Oct 2020 17:58:00 +0000
+Message-ID:
+	<CP0P152MB342614107DB8C3AA289118F6C6070@CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM>
+References:
+	<CP0P152MB323428522F2FEDCA7F5AFC15DB060@CP0P152MB3234.LAMP152.PROD.OUTLOOK.COM>
+In-Reply-To:
+	<CP0P152MB323428522F2FEDCA7F5AFC15DB060@CP0P152MB3234.LAMP152.PROD.OUTLOOK.COM>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	27bcc44c-e0d9-495d-babb-08d86ed85bd3
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:pt;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:CP0P152MB3426.LAMP152.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+x-originating-ip: [2804:1ac:580f:82a:9ceb:300c:63f5:208d]
+authentication-results: furb.br; dkim=none (message not signed)
+ header.d=none;furb.br; dmarc=none action=none header.from=furb.br;
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 27bcc44c-e0d9-495d-babb-08d86ed85bd3
+x-microsoft-antispam: BCL:0;
+x-ms-traffictypediagnostic: CPXP152MB3238:
+x-ms-oob-tlc-oobclassifiers: OLM:1728;
+x-ms-exchange-antispam-messagedata:
+	3GHke3HebjnrBiXEoHb2MMDt1UAE2lUtZc3CF/hWgxEYqW1SEGNLHLHwpSidnnebC5VfMsI14GG8QKNIiZ245Bspk6FY7ZCxpZecRRNsNzTr5ieAA7neVE+NZ0hXfIAP6xW4XYs7+797qR0UHGMznOyQYiuhx94wYprYBXv9buu9naVKL6JyG1Z1Pd7vbFnXVGY1psUuSR0p6Ose1wLpxLyTqT2abkXgvdz4sNnpTBUjQlxV8uzVlYczlKIgIEfWoNoJbhvhuCC7W16LWVn/ed9p4+j7YfCOsWjlOlVL4LxTFxnqb/968NebDKAwoqhJclCArpBOw3Cak1k9PSqGTnWMNTyyAP00ihwJaMGp4UK9TZX8ouWsSxyYroioOAhDS7k2C4aHfvDC3sc+Sy6jXyEPAMvVgjAcRAol42gWmzVzkXXimd7B/lLWabdrhz1fQ7PzHa9LFqQpa0odME77gspxIZaLizLLx3dU5o6jkXwpAGekrbmHiBMqJSTtaQxtgjtleynnVmhlHw6IUDgJ6dXvyIawmkWVqOhYS7cgTHZMY40TUjmrKOH9QLr08XjV4Ge0IjOR+a8spD1lXwRnMPStGIHTu6HDbDnivQfV1HokpIY64e8waMhnGwxOJX4xz6DC4R7kPA5ze67n18LkuCNWPE2V6ZcrdI44RZzepjD/9V6sZ0IOaqqWPnrbvkRKba80QLWr12qpAtcpxDO8zA==
+x-ms-exchange-crosstenant-network-message-id:
+	27bcc44c-e0d9-495d-babb-08d86ed85bd3
+x-ms-exchange-crosstenant-originalarrivaltime: 12 Oct 2020 17:58:00.4722 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-id: 0c2d222a-ecda-4b70-960a-acef6ced3052
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	4n1glLYtpS4Y7kJf6alYkY8zCS/moPIQ/YiAllIjyeYQu4ZDNnB24EsSCbKT3oeSCHqxyeTombIP5y6tPrqkAw==
+x-ms-exchange-transport-crosstenantheadersstamped: CPXP152MB3238
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750128)(520011016)(706158)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	FREEtZiZdd6jYeML3VmRmiDB8yT8kZLx3LKBLJlCzto/lO7b1D7TJXGmc2ucuZ4c6FyMqYVTX+lqQtqwEYmNJemLhfpCc2AipKAU5di5CfKLd9JzfjHH6dt3BYVlgxOyCJW4KK6JLIFVzYIMtD0EhoqxMydM2s4A1p/mAZ2yVWV21J6RExCGgeXWXUp8sM9CYn+4nl02NGCYhrEagMY29f5SZ61r2WfH3iCTIJmqQXnjJorbWjisFUJ25PJvFVEChADYVwi0ID7ZXHHx+ZrLe6RWEC6o4pposcqOfXej4+6LZRYo+VfyQS9/dJHNhFXftUzzX07yN58jMNk3XGsUkxzBU6leQejwHtlJzKDl9ba7XRiNRZFjY9MAKVISWlfW74L3fUSIr361ETzQB09/blmaQ1Nlkimz8KzhX1JFvhQ=
+Content-Type: multipart/alternative;
+	boundary="_000_CP0P152MB342614107DB8C3AA289118F6C6070CP0P152MB3426LAMP_"
+MIME-Version: 1.0
+
+--_000_CP0P152MB342614107DB8C3AA289118F6C6070CP0P152MB3426LAMP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Recebido.
+
+Andreza
+
+________________________________
+De: Dalton Solano dos Reis <dalton@furb.br>
+Enviado: domingo, 11 de outubro de 2020 20:51
+Para: Andreza Sartori <asartori@furb.br>
+Assunto: Pr=E9-projeto Gabriel Garcia Salvador
+
+Segue em anexo o pr=E9-projeto do Gabriel com o meu =93acordo=94.
+Att.
+
+
+
+
+
+___________________
+prof. Dalton Reis, M.Sc.
+gcg.inf.furb.br
+
+
+
+[FURB]<http://www.furb.br>      [FURB] <https://linktr.ee/furboficial>  [FU=
+RB] <https://linktr.ee/furboficial>  [FURB] <https://linktr.ee/furboficial>=
+  [FURB] <https://linktr.ee/furboficial>
+
+--_000_CP0P152MB342614107DB8C3AA289118F6C6070CP0P152MB3426LAMP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px; font-size: 12pt; font-family: Calibri, Arial, He=
+lvetica, sans-serif">
+Recebido.</div>
+<div style=3D"margin: 0px; font-size: 12pt; font-family: Calibri, Arial, He=
+lvetica, sans-serif">
+<br>
+</div>
+<div style=3D"margin: 0px; font-size: 12pt; font-family: Calibri, Arial, He=
+lvetica, sans-serif">
+Andreza</div>
+<br>
+</div>
+<div id=3D"appendonsend"></div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>De:</b> Dalton Solano dos Reis =
+&lt;dalton@furb.br&gt;<br>
+<b>Enviado:</b> domingo, 11 de outubro de 2020 20:51<br>
+<b>Para:</b> Andreza Sartori &lt;asartori@furb.br&gt;<br>
+<b>Assunto:</b> Pr=E9-projeto Gabriel Garcia Salvador</font>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12p=
+t; color:rgb(0,0,0)">
+<span style=3D"font-size:medium; display:inline!important">Segue em anexo o=
+ pr=E9-projeto do Gabriel com o meu =93acordo=94.</span></div>
+<div style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12p=
+t; color:rgb(0,0,0)">
+<div style=3D""><span style=3D"font-family:Calibri,Arial,Helvetica,sans-ser=
+if"></span>
+<div style=3D"font-family:Helvetica; font-size:12px">Att.</div>
+</div>
+<br class=3D"x_Apple-interchange-newline" style=3D"">
+<br class=3D"x_Apple-interchange-newline">
+<br>
+</div>
+<div>
+<div style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12p=
+t; color:rgb(0,0,0)">
+<br>
+</div>
+<div id=3D"x_Signature">
+<div>
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; col=
+or:#000000; font-family:Calibri,Helvetica,sans-serif">
+<p style=3D"margin-top:0px; margin-bottom:0px; margin-top:0; margin-bottom:=
+0"><span id=3D"x_ms-rterangepaste-start"></span></p>
+<div id=3D"x_AppleMailSignature" style=3D"font-family:Helvetica; font-size:=
+12px">
+<div dir=3D"auto" style=3D"word-wrap:break-word; line-break:after-white-spa=
+ce">
+<div class=3D"x_ApplePlainTextBody">___________________<br>
+prof. Dalton Reis, M.Sc.<br>
+gcg.inf.furb.br</div>
+<div><br>
+</div>
+</div>
+</div>
+<span id=3D"x_ms-rterangepaste-end"></span><br>
+<p style=3D"margin-top:0px; margin-bottom:0px"></p>
+</div>
+</div>
+</div>
+</div>
+<table border=3D"0,1" cellpadding=3D"0" width=3D"50%" style=3D"width:100.0%=
+; background:#fff">
+<div align=3D"center"></div>
+</table>
+<table border=3D"1" cellpadding=3D"0" width=3D"80%" style=3D"width:100.0%; =
+background:#eee; border-top:solid #FFF 0.05pt; border-left:none; border-bot=
+tom:solid #FFFFFF 2.25pt; border-right:none">
+<br>
+<tbody>
+<tr style=3D"height:15pt">
+<td width=3D"70%" style=3D"border:none; padding:.75pt .75pt .75pt .75pt; he=
+ight:11.25pt">
+<a href=3D"http://www.furb.br" target=3D"_blank"><img id=3D"x_logo_furb" al=
+t=3D"FURB" src=3D"https://www10.furb.br/apus/exchange365/disclaimer/logo-co=
+lor-furb.png"></a></td>
+<td width=3D"10%" style=3D"border:none; padding:.75pt .75pt .75pt .75pt; he=
+ight:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"x_lo=
+go_facebook" alt=3D"FURB" src=3D"https://www10.furb.br/apus/exchange365/dis=
+claimer/facebook.png"></a></td>
+<td width=3D"10%" style=3D"border:none; padding:.75pt .75pt .75pt .75pt; he=
+ight:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"x_lo=
+go_facebook" alt=3D"FURB" src=3D"https://www10.furb.br/apus/exchange365/dis=
+claimer/twitter.png"></a></td>
+<td width=3D"10%" style=3D"border:none; padding:.75pt .75pt .75pt .75pt; he=
+ight:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"x_lo=
+go_twitter" alt=3D"FURB" src=3D"https://www10.furb.br/apus/exchange365/disc=
+laimer/instagram.png"></a></td>
+<td width=3D"10%" style=3D"border:none; padding:.75pt .75pt .75pt .75pt; he=
+ight:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"x_lo=
+go_instagram" alt=3D"FURB" src=3D"https://www10.furb.br/apus/exchange365/di=
+sclaimer/whatsapp.png"></a></td>
+</tr>
+</tbody>
+</table>
+<div></div>
+</div>
+</body>
+</html>
+
+--_000_CP0P152MB342614107DB8C3AA289118F6C6070CP0P152MB3426LAMP_--
+
+From gabrielgarcia@furb.br Fri Aug 21 22:25:32 2020
+Received: from RO1P152MB1211.LAMP152.PROD.OUTLOOK.COM (2603:10d6:102:18::21)
+ by CP0P152MB3234.LAMP152.PROD.OUTLOOK.COM with HTTPS via
+ CP2PR80CA0107.LAMPRD80.PROD.OUTLOOK.COM; Fri, 21 Aug 2020 22:25:32 +0000
+Received: from RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM (2603:10d6:4:1d::7) by
+ RO1P152MB1211.LAMP152.PROD.OUTLOOK.COM (2603:10d6:0:22::18) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.3305.25; Fri, 21 Aug 2020 22:25:31 +0000
+Received: from RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM
+ ([fe80::55fe:c732:ac30:58bd]) by RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM
+ ([fe80::55fe:c732:ac30:58bd%10]) with mapi id 15.20.3305.026; Fri, 21 Aug
+ 2020 22:25:31 +0000
+From: Gabriel Garcia Salvador <gabrielgarcia@furb.br>
+To: Dalton Solano dos Reis <dalton@furb.br>
+Subject: Requisitando a honra de ser orientado pelo Dalton (BCC/TCC1) RV
+Thread-Topic: Requisitando a honra de ser orientado pelo Dalton (BCC/TCC1) RV
+Thread-Index: AQHWeAk/6sB6VEXKV02ntJhmOBOkDA==
+Date: Fri, 21 Aug 2020 22:25:30 +0000
+Message-ID:
+	<RO1P15201MB2329B6DCEE6E03B0F37540F7AE5B0@RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	91fba379-5de5-47dd-a441-08d846211d30
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:pt;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:RO1P15201MB2329.LAMP152.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+x-originating-ip: [2804:14c:5f81:8603:c4fd:59f6:8ec7:45c2]
+authentication-results: furb.br; dkim=none (message not signed)
+ header.d=none;furb.br; dmarc=none action=none header.from=furb.br;
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 91fba379-5de5-47dd-a441-08d846211d30
+x-microsoft-antispam: BCL:0;
+x-ms-traffictypediagnostic: RO1P152MB1211:
+x-ms-oob-tlc-oobclassifiers: OLM:1360;
+x-ms-exchange-antispam-messagedata:
+	x4CWBKt4eBkohmcS3F7qFNQ4yvAUD5zUTx8fKsPHkV9oaqKWlOCnlWWyUoVVPQmFAfoZNgI0TAcNm5o1irVG8RKOVWVQ9PFJ68rmQIwJg/g/VewthQ+hHOSBnVbi3xpXGH0LZfLqXfgz1kdERwvwXflk/J357O1DY/PXE+H95VjEXN1rnCQIc5Jo6fzgDBg4KayLrntCK+whh31dSHyQ+iTI1PnKkJUPqiJypNcJoJzrlaZz2cZyQJjJDDcfL9UgDhq8QIsxaahglY0vPAYTeRiSSyouD4oI5YwgLPYXtL1VPd4keWl01Xgtu1JPwOukQxdf37Sh4D0s+MHRbAN7a7zQLTYx0N9PWOjs732VLjnnhqD7mkJTJB8gDQwUjnP5kxeKLU4SETwTYhNKNhH92DHEc4qoOUe/o7DL7pi15OKGQC5ZuQwqyFN/XmROPltXv6fM4z9DbVwj0bdT7SgFe2HpUuveWmBIISdxN1Zjql25Ru7waPsoRLJnQa0MIzuPLJE1z8gs6vvOS/00BQD3Z/L3ik+to9ErKMoMaE9mT3G1F7ON8YmV/dkVwli3U21HKIfckfqAoCxwPm/dgT1cd5W/U2f+PwqKHqTb9DXA6tRpdNM0UJHV1vd4EyUhNvAu8yf/+TUvTkzsqKjnHedthc2E+cl00E0Kawunfgbiw2kqThQfeP0wUiSYaESv2y6xg6OVinf7aobGvoqWbc9Big==
+x-ms-exchange-crosstenant-network-message-id:
+	91fba379-5de5-47dd-a441-08d846211d30
+x-ms-exchange-crosstenant-originalarrivaltime: 21 Aug 2020 22:25:30.9667 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-id: 0c2d222a-ecda-4b70-960a-acef6ced3052
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	K4TkmG6UfQHcmFc4HfVuae+Or42q1n3I+ogeLG6r1bl0gF3cJ8INytQ991hceoTT6Ia6lXZ7JmeooVbF44Zx0g==
+x-ms-exchange-transport-crosstenantheadersstamped: RO1P152MB1211
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750128)(520011016)(706158)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	87347kkdDSXkRdDHfyQqFWD/pwgQNOZlH/gGd4GZ+FwB67kO30SqZZuHStcaBZezaAnM6B+AKbBRrb/WcyiSVSeIV99weTIuiYqGQjKejJnFdDLMnqvEvDlk80fJnwlW+s4svFQ5i7D/n9ypjZaQY+9mfZBF+YeR7wgL78yaag/d5WBLB/TJSCSyF0/9UDTHao7dR2TPWB1fr3ZVc+1xfu9Y0OOM9RI8dwOMH7IG3MO8Qv+a4K+IR0M8kGphJBKzEMZQmeKEgc+6Gimb4dvmhQPudmx5KfPGCMxTnLXRfvPk4KPQR+4zlmcgc09tJZUEOMm2IxsVM9T9ELHJMvjv+c+pJzQXTT3pG5Q2hIOTyiNdMmFAidG89elUTL6YVPDnLk6VjHoTR7pm/pVUU1dfeB5Am8SejOEdP6YqBuhnn70=
+Content-Type: multipart/alternative;
+	boundary="_000_RO1P15201MB2329B6DCEE6E03B0F37540F7AE5B0RO1P15201MB2329_"
+MIME-Version: 1.0
+
+--_000_RO1P15201MB2329B6DCEE6E03B0F37540F7AE5B0RO1P15201MB2329_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+Boa Noite Professor!
+
+Ent=E3o, chegou a hora do famoso TCC I, e eu queria ver se o professor ta d=
+isposto a ser meu orientador.
+
+Estou querendo bastante fazer algo de Realidade Virtual, mas ainda n=E3o te=
+nho muita id=E9ia de algo que seria v=E1lido como TCC, minha ideia era faze=
+r algo em um sistema de RV mais robusto como o Oculus Quest (Port=E1til) , =
+ou o Oculus Rift S (Desktop). Mandei tamb=E9m uma mensagem no Teams, pode d=
+esconsiderar aqui se ver l=E1, e vice-versa hehe.
+
+Entre as id=E9ias vagas, surgiu uma de um ambiente virtual para algum profe=
+ssor lecionar, com acesso a um quadro branco que ele poderia escrever, o qu=
+e facilitaria muito pra quem depende de equa=E7=F5es, anota=E7=F5es etc, e =
+escrever em RV com um controle =E9 bem mais natural, al=E9m de poder ter ac=
+esso a diversos a infinitos objetos que poderia interagir pra demonstrar o =
+funcionamento para os alunos.
+
+Mas tamb=E9m gostaria de outas id=E9ias se o professor tiver alguma.
+
+Quando o professor tiver um tempinho e estiver disposto me da um toque dai,=
+ pode ser por esse email, pelo email gabrielpin70@hotmail.com<mailto:gabrie=
+lpin70@hotmail.com>, pelo teams, ou pelo meu whats 47 997547419.
+
+Obrigado!
+
+
+Enviado do Email<https://go.microsoft.com/fwlink/?LinkId=3D550986> para Win=
+dows 10
+
+
+[FURB]<http://www.furb.br>      [FURB] <https://linktr.ee/furboficial>  [FU=
+RB] <https://linktr.ee/furboficial>  [FURB] <https://linktr.ee/furboficial>=
+  [FURB] <https://linktr.ee/furboficial>
+
+--_000_RO1P15201MB2329B6DCEE6E03B0F37540F7AE5B0RO1P15201MB2329_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"PT-BR" link=3D"blue" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Boa Noite Professor!<br>
+<br>
+Ent=E3o, chegou a hora do famoso TCC I, e eu queria ver se o professor ta d=
+isposto a ser meu orientador.<br>
+<br>
+Estou querendo bastante fazer algo de Realidade Virtual, mas ainda n=E3o te=
+nho muita id=E9ia de algo que seria v=E1lido como TCC, minha ideia era faze=
+r algo em um sistema de RV mais robusto como o Oculus Quest (Port=E1til) , =
+ou o Oculus Rift S (Desktop). Mandei tamb=E9m
+ uma mensagem no Teams, pode desconsiderar aqui se ver l=E1, e vice-versa h=
+ehe.<br>
+<br>
+Entre as id=E9ias vagas, surgiu uma de um ambiente virtual para algum profe=
+ssor lecionar, com acesso a um quadro branco que ele poderia escrever, o qu=
+e facilitaria muito pra quem depende de equa=E7=F5es, anota=E7=F5es etc, e =
+escrever em RV com um controle =E9 bem mais
+ natural, al=E9m de poder ter acesso a diversos a infinitos objetos que pod=
+eria interagir pra demonstrar o funcionamento para os alunos.<br>
+<br>
+Mas tamb=E9m gostaria de outas id=E9ias se o professor tiver alguma.<br>
+<br>
+Quando o professor tiver um tempinho e estiver disposto me da um toque dai,=
+ pode ser por esse email, pelo email
+<a href=3D"mailto:gabrielpin70@hotmail.com">gabrielpin70@hotmail.com</a>, p=
+elo teams, ou pelo meu whats 47 997547419.<br>
+<br>
+Obrigado!</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Enviado do <a href=3D"https://go.microsoft.com/fwlin=
+k/?LinkId=3D550986">
+Email</a> para Windows 10</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<table border=3D"0,1" cellpadding=3D"0" width=3D"50%" style=3D"width:100.0%=
+;background:#fff">
+<div align=3D"center"></div>
+</table>
+<table border=3D"1" cellpadding=3D"0" width=3D"80%" style=3D"width:100.0%;b=
+ackground:#eee;border-top:solid #FFF 0.05pt; border-left:none;border-bottom=
+:solid #FFFFFF 2.25pt;border-right:none;=0A=
+           ">
+<br>
+<tbody>
+<tr style=3D"mso-yfti-irow:18;mso-yfti-lastrow:yes;height:15pt">
+<td width=3D"70%" style=3D"border:none;padding:.75pt .75pt .75pt .75pt;heig=
+ht:11.25pt">
+<a href=3D"http://www.furb.br" target=3D"_blank"><img id=3D"logo_furb" src=
+=3D"https://www10.furb.br/apus/exchange365/disclaimer/logo-color-furb.png" =
+alt=3D"FURB"></a></td>
+<td width=3D"10%" style=3D"border:none;padding:.75pt .75pt .75pt .75pt;heig=
+ht:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"logo=
+_facebook" src=3D"https://www10.furb.br/apus/exchange365/disclaimer/faceboo=
+k.png" alt=3D"FURB"></a></td>
+<td width=3D"10%" style=3D"border:none;padding:.75pt .75pt .75pt .75pt;heig=
+ht:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"logo=
+_facebook" src=3D"https://www10.furb.br/apus/exchange365/disclaimer/twitter=
+.png" alt=3D"FURB"></a></td>
+<td width=3D"10%" style=3D"border:none;padding:.75pt .75pt .75pt .75pt;heig=
+ht:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"logo=
+_twitter" src=3D"https://www10.furb.br/apus/exchange365/disclaimer/instagra=
+m.png" alt=3D"FURB"></a></td>
+<td width=3D"10%" style=3D"border:none;padding:.75pt .75pt .75pt .75pt;heig=
+ht:11.25pt">
+<a href=3D"https://linktr.ee/furboficial" target=3D"_blank"><img id=3D"logo=
+_instagram" src=3D"https://www10.furb.br/apus/exchange365/disclaimer/whatsa=
+pp.png" alt=3D"FURB"></a></td>
+</tr>
+</tbody>
+</table>
+<div></div>
+</body>
+</html>
+
+--_000_RO1P15201MB2329B6DCEE6E03B0F37540F7AE5B0RO1P15201MB2329_--
+
